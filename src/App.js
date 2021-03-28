@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <div>By Joey Schrader</div>
+        <div>By Joey Schrader, the coolest man on the planet!</div>
       </header>
     </div>
   );
